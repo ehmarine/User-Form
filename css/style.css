@@ -1,0 +1,30 @@
+.nameError {
+  display: inline-block;
+  color: rgba(255, 0, 0, 0.781);
+  font-style: italic;
+}
+
+.header {
+  margin-top: 1.5rem;
+}
+
+.user {
+  margin: 2rem 0;
+  padding: 0.8rem 0;
+  text-align: center;
+  border: 2px solid rgba(0, 0, 0, 0.075);
+  border-radius: 2rem;
+  box-shadow: 5px 5px 10px 0;
+  background-color: rgba(183, 206, 250, 0.445);
+}
+
+.user h3 {
+  display: inline-block;
+  margin-top: 0.5rem;
+}
+
+.user small {
+  font-style: italic;
+  display: block;
+}
+/*# sourceMappingURL=style.css.map */
